@@ -27,7 +27,7 @@ function Sem6(){
   return(<> 
  <div class="top">
 
-<p >Semester 6</p><p>Total Credits:23</p>
+<p >Semester 6</p><p>Total Credits:26</p>
 
 </div> 
 <h5 class=" text-center  text-center display-7">Grade: O , A+ , A ,B+, B , RA , W , SE </h5> 
