@@ -18,7 +18,7 @@ function cal(){
    default:{sum=0;i=10;alert("Enter proper grade!")};break;
   }
 }
-  var ans=sum/23;
+  var ans=sum/26;
  document.getElementById("ans").innerHTML=ans.toFixed(2);
 
 }
